@@ -1,6 +1,6 @@
-# BioinspiredComputing
+# Bioinspired Computing Course
 
- In this repostory, I show all the projects done during Bioinspired Computing course. In the folder projects, the codes and the technical report are available. 
+ In this repostory, I show all the projects done during Bioinspired Computing graduate course at the São Paulo State University (UNESP). In the folder projects, the codes and the technical report are available. 
 
 ## Project 1 - Maximum and minimum value of a function using Genetic Algorithms, Simulated Annealing and Hill Climb 
 
